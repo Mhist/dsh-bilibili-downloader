@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Bilibili uploader downloader",
+    "description": "Adds a Bilibili downloader panel to the sidebar: enter an uploader UID, choose a quality and a destination folder, then download every video on that uploader's page with per-video progress. A video link can also be downloaded on its own. Videos that share a title get a BV suffix so a different video is never mistaken for an existing file. Listing the videos and higher qualities such as 1080P need a signed-in cookie (SESSDATA); the ffmpeg that DASH merging needs is downloaded automatically on first use and can also be set manually."
+  }
+}
