@@ -18,7 +18,7 @@
 npm publish --access public        # 见下方「发布」
 ```
 
-然后在 DSH 中按插件安装流程用安装规格安装，例如 `dsh-bilibili-downloader@1.0.0`（也可带 scope）。插件安装后同样出现在左侧栏，无需重启浏览器；若面板没有立即更新，刷新一次页面。
+然后在 DSH 中按插件安装流程用安装规格安装，例如 `dsh-bilibili-downloader@1.0.1`（也可带 scope）。插件安装后同样出现在左侧栏，无需重启浏览器；若面板没有立即更新，刷新一次页面。
 
 **环境**：DSH 0.2.2-rc.5，Windows x64 上验证通过（面板与工具）。macOS/Linux 可运行，但「打开文件夹」与 ffmpeg 自动下载目前只针对 Windows 做了适配，其他平台请在设置里填写 ffmpeg 路径。
 
